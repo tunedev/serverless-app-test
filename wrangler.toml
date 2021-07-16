@@ -1,0 +1,8 @@
+name = "serverless-app"
+type = 'webpack'
+account_id = 'e05947ce007ab8d43b7b0ff46b3efdd9'
+entry-point='build'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
